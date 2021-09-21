@@ -4,6 +4,8 @@ currently:
   
 you can also find me on [Linkedin](https://www.linkedin.com/in/lorenzotarcinale/) and [Kaggle](https://www.kaggle.com/lorenzotarcinale).
 
+check out my [portfolio](https://github.com/lorenzotrcnl/lorenzotrcnl/blob/main/portfolio.md)
+
 ⚽️ 📈 🇮🇹🇹
 
 <!---
