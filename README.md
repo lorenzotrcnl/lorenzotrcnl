@@ -4,6 +4,11 @@
 #### I'm currently:
   - 🎓 working on my thesis
   - ✍🏼 writing for [Ingegneria del Calcio](https://ingegneriadelcalcio.com/)
+
+#### Bio
+  - ⚽️ I'm a content creator for Ingegneria del Calcio
+  - ⚽️ I'm looking to specialize in football data analysis
+  - 📖 I'm taking *The Missing Semester of Your CS Education* online course
   
 #### 🧰 Skills
 
