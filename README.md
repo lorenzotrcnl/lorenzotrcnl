@@ -1,6 +1,6 @@
 ### 👋
 
-## 🎓 I'm an MSc Statistic student at [Università degli Studi di Salerno](https://www.unisa.it/)
+## 🎓 I'm an MSc Statistical Science for Finance student at [UniSa](https://www.unisa.it/)
 
 
 #### I'm currently:
@@ -9,6 +9,7 @@
   - 👨‍💻 taking *The Missing Semester of Your CS Education* online course
 
 #### Bio
+  - 🌱 Bachelor's degree in Statistics for Big Data at UniSa
   - ⚽️ I'm a content creator for Ingegneria del Calcio
   - 📈 I'm looking to specialize in football data analysis
   - 🖥 IT Background
