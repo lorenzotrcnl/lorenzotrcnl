@@ -10,7 +10,7 @@
 
 #### Bio
   - 🌱 Bachelor's degree in Statistics for Big Data at UniSa
-  - ⚽️ I'm a content creator for Ingegneria del Calcio
+  - ⚽️ Content Creator for Ingegneria del Calcio
   - 📈 I'm looking to specialize in football data analysis
   - 🖥 IT Background
   - 🎧 Love music, books and art-related stuffs
