@@ -1,14 +1,18 @@
+### 👋
+
 ## 🎓 I'm an MSc Statistic student at [Università degli Studi di Salerno](https://www.unisa.it/)
 
 
 #### I'm currently:
   - 🎓 working on my thesis
   - ✍🏼 writing for [Ingegneria del Calcio](https://ingegneriadelcalcio.com/)
+  - 👨‍💻 taking *The Missing Semester of Your CS Education* online course
 
 #### Bio
   - ⚽️ I'm a content creator for Ingegneria del Calcio
-  - ⚽️ I'm looking to specialize in football data analysis
-  - 📖 I'm taking *The Missing Semester of Your CS Education* online course
+  - 📈 I'm looking to specialize in football data analysis
+  - 🖥 IT Background
+  - 🎧 Love music, books and art-related stuffs
   
 #### 🧰 Skills
 
