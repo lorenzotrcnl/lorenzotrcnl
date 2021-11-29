@@ -6,7 +6,6 @@
 #### I'm currently:
   - 🎓 working on my thesis
   - ✍🏼 writing for [Ingegneria del Calcio](https://ingegneriadelcalcio.com/)
-  - 👨‍💻 taking *The Missing Semester of Your CS Education* online course
 
 #### Bio
   - 🌱 Bachelor's degree in Statistics for Big Data at UniSa
