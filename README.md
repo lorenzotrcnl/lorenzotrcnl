@@ -1,6 +1,6 @@
 ### 👋
 
-## 🎓 I'm an MSc Statistical Science for Finance student at [UniSa](https://www.unisa.it/)
+## 🎓 I'm an MSc Data Science and Innovation Management student at [UniSa](https://www.unisa.it/)
 
 
 #### I'm currently:
