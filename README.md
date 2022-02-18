@@ -4,7 +4,6 @@
 
 
 #### I'm currently:
-  - 🎓 working on my thesis
   - ✍🏼 writing for [Ingegneria del Calcio](https://ingegneriadelcalcio.com/)
 
 #### Bio
