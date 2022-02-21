@@ -9,4 +9,4 @@ Here's a list of projects that i've done.
   - [Beijing PM2.5: EDA and Predictions](https://www.kaggle.com/lorenzotarcinale/beijing-pm2-5-eda-and-predictions)
   
 ### Other
-  - Thesis (currently)
+  - [Bachelor Thesis](https://github.com/lorenzotrcnl/lorenzotrcnl/blob/main/bachelor_thesis.pdf)
