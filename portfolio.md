@@ -1,6 +1,11 @@
 ## Portfolio
 Here's a list of projects that I've done.
 
+### Index
+  - Ingegneria del Calcio
+  - Kaggle
+  - Other
+
 ### Ingegneria del Calcio
   - [VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio.](https://ingegneriadelcalcio.com/virtual-coach-cose-e-come-supporta-le-decisioni-nel-calcio/)
   - [Guida ai Football Data](https://ingegneriadelcalcio.com/guida-ai-football-data/)
