@@ -1,7 +1,7 @@
 ## Portfolio
 Here's a list of projects that I've done.
 
-### Index
+## Table of contents
 * [Ingegneria del Calcio](#ingegneria-del-calcio)
 * [Kaggle](#kaggle)
 * [Other](#other)
