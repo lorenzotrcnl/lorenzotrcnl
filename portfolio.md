@@ -1,4 +1,4 @@
-Here's a list of projects that i've done.
+Here's a list of projects that I've done.
 
 ### Ingegneria del Calcio
   - [VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio.](https://ingegneriadelcalcio.com/virtual-coach-cose-e-come-supporta-le-decisioni-nel-calcio/)
