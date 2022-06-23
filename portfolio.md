@@ -6,6 +6,9 @@ Here's a list of projects that I've done.
 * [Kaggle](#kaggle)
 * [Other](#other)
 
+<div align="center">
+  <h2>Ingegneria del Calcio </h2>
+</div>
 ### Ingegneria del Calcio
   - [VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio.](https://ingegneriadelcalcio.com/virtual-coach-cose-e-come-supporta-le-decisioni-nel-calcio/)
   - [Guida ai Football Data](https://ingegneriadelcalcio.com/guida-ai-football-data/)
