@@ -6,7 +6,10 @@ Here's a list of projects that I've done.
 * [Kaggle](#kaggle)
 * [Other](#other)
 
+
 <div align="center">
+  <img src="https://www.equity.org.uk/media/5785/purple-rectangle.png?anchor=center&mode=crop&width=1200&height=475&rnd=132798207810000000" width="1200" height="25" style="padding:0">
+  
   <h2> Ingegneria del Calcio </h2>
   
   <a href="https://ingegneriadelcalcio.com/virtual-coach-cose-e-come-supporta-le-decisioni-nel-calcio"> VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio. </a>
@@ -20,6 +23,7 @@ Here's a list of projects that I've done.
   </p>
   
   
+<img src="https://www.equity.org.uk/media/5785/purple-rectangle.png?anchor=center&mode=crop&width=1200&height=475&rnd=132798207810000000" width="1200" height="25" style="padding:0">
   
 
   <h2> Kaggle </h2>
@@ -34,7 +38,8 @@ Here's a list of projects that I've done.
   <p> La raccolta di dati dagli incontri di calcio è ormai una realtà consolidata da anni. Dall’allenamento alla gara gli atleti sono sottoposti ad un continuo monitoraggio dei parametri fisici, tecnici e tattici. Nell’ultimo decennio si sono susseguite ed evolute tecniche e tipologie di dati acquisiti intra e post match, che possiamo dividere in tre categorie: dati gps, dati evento (event data o soccer logs), dati di posizione (video-tracking data). Ma sono proprio gli ultimi due a dominare la scena della “football data analysis”, rappresentando la principale risorsa per lo sviluppo di modelli matematici avanzati, algoritmi e statistiche.
   </p>
   
-  
+
+  <img src="https://www.equity.org.uk/media/5785/purple-rectangle.png?anchor=center&mode=crop&width=1200&height=475&rnd=132798207810000000" width="1200" height="25" style="padding:0">
   
   <h2> Miscellaneous </h2>
   
