@@ -23,7 +23,7 @@
 
 #### 🔗 Links
 <div align="left">
-<a href="https://www.linkedin.com/in/lorenzotarcinale/" target="_blank">
+<a href="https://github.com/lorenzotrcnl/lorenzotrcnl/blob/main/portfolio.md" target="_blank">
 <img src=https://shields.io/badge/portfolio-blueviolet?style=for-the-badge alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/lorenzotarcinale/" target="_blank">
