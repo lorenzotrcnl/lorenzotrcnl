@@ -2,9 +2,9 @@
 Here's a list of projects that I've done.
 
 ### Index
-  - Ingegneria del Calcio
-  - Kaggle
-  - Other
+* [Ingegneria del Calcio](#ing)
+* [Kaggle](#kaggle)
+* [Other](#other)
 
 ### Ingegneria del Calcio
   - [VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio.](https://ingegneriadelcalcio.com/virtual-coach-cose-e-come-supporta-le-decisioni-nel-calcio/)
