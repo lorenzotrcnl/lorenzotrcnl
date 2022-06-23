@@ -2,7 +2,7 @@
 Here's a list of projects that I've done.
 
 ### Index
-* [Ingegneria del Calcio](#ingegneriadelcalcio)
+* [Ingegneria del Calcio](#ingegneria-del-calcio)
 * [Kaggle](#kaggle)
 * [Other](#other)
 
