@@ -11,8 +11,9 @@ Here's a list of projects that I've done.
 ### Other
   - [Bachelor Thesis](https://github.com/lorenzotrcnl/lorenzotrcnl/blob/main/bachelor_thesis.pdf)
 
-<div align="left">
+
+<div align="center">
 <a href="https://github.com/lorenzotrcnl" target="_blank">
-<img src=https://shields.io/badge/home-white?style=for-the-badge alt=home style="margin-bottom: 5px;" />
+<img src=https://shields.io/badge/home-grey?style=for-the-badge alt=home style="margin-bottom: 5px;" />
 </a>
 </div>  
