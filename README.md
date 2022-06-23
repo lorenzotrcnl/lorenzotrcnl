@@ -1,6 +1,6 @@
 ### 👋
 
-## 🎓 I'm an MSc Data Science and Innovation Management student at [UniSa](https://www.unisa.it/)
+## 🎓 I'm an MSc Data Science and Innovation Management student at [UniSa](https://corsi.unisa.it/data-science-e-gestione-dell-innovazione/presentazione)
 
 
 #### I'm currently:
