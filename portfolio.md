@@ -14,6 +14,6 @@ Here's a list of projects that I've done.
 
 <div align="center">
 <a href="https://github.com/lorenzotrcnl" target="_blank">
-<img src=https://shields.io/badge/home-grey?style=for-the-badge alt=home style="margin-bottom: 5px;" />
+<img src=https://shields.io/badge/home-white?style=for-the-badge alt=home style="margin-bottom: 5px;" />
 </a>
 </div>  
