@@ -4,6 +4,7 @@
 
 
 #### I'm currently:
+  - 📔 studying Data Science and Innovation Management at UniSa
   - ✍🏼 writing for [Ingegneria del Calcio](https://ingegneriadelcalcio.com/)
 
 #### Bio
