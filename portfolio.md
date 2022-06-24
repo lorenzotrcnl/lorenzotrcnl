@@ -4,7 +4,7 @@ Here's a list of projects that I've done.
 ## Table of contents
 * [Ingegneria del Calcio](#ingegneria-del-calcio)
 * [Kaggle](#kaggle)
-* [Other](#other)
+* [Miscellaneous](#miscellaneous)
 
 
 <div align="center">
@@ -44,7 +44,7 @@ Here's a list of projects that I've done.
   <h2> Miscellaneous </h2>
   
   <a href="https://github.com/lorenzotrcnl/lorenzotrcnl/blob/main/bachelor_thesis.pdf"> Bachelor Thesis </a>
-  <p> Distribuito in anteprima nella fase iniziale della stagione 2019/2020, è stato accolto positivamente dal reparto tecnico delle 20 società di Lega Serie A. Diamo insieme uno sguardo alle caratteristiche e alla mission di un software tutto italiano che propone di inserirsi nel contesto tecnico-tattico del match.
+  <p> The use of algorithms, in football, is gradually increasing not only to evaluate and measure the performance of their players, both in training and during official matches, but also to carry out economic-financial evaluations of the teams themselves, evaluations that are useful for better understanding the market in which they compete. The main objective of this work is precisely to extend a data analysis logic used in professional football to a youth football team.
   </p>
   
 </div>
