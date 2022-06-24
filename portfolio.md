@@ -3,8 +3,13 @@ Here's a list of projects that I've done.
 
 ## Table of contents
 * [Ingegneria del Calcio](#ingegneria-del-calcio)
+  - VIRTUAL COACH: cos’è e come supporta le decisioni nel calcio.
+  - Guida ai Football Data.
 * [Kaggle](#kaggle)
+  - TikTok Videos - Homework
+  - Beijing PM2.5: EDA and Predictions
 * [Miscellaneous](#miscellaneous)
+  - Bachelor Thesis
 
 
 <div align="center">
